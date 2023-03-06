@@ -8,8 +8,6 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent {
 	data: any = []; // store your data
-
-	// backend url is: https://nodemonrkmwhz-2wgv--3000.local-credentialless.webcontainer.io
 	url = window.location.origin.replace('4200', '3000'); // this gives you angular url, but replace port with 3000
 
 	constructor(private http: HttpClient) {}

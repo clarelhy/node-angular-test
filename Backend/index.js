@@ -1,13 +1,11 @@
 var data = require('../Backend/data.json');
 var express = require('express');
-var port = 3000;
 var app = express();
 app.use(express.json());
 
-// write a GET endpoint "getChildrenTotal" to retrieve total number of children all the customers have in total
-// where response looks like { total: 10 }
+// TODO: write a GET endpoint "getChildrenTotal" to retrieve total number of children all the customers have in total
 
-// write a POST endpoint "getById" to retrieve 1 record by ID
+// TODO: write a POST endpoint "getById" to retrieve 1 record by ID
 
 // Sample GET request
 app.get('/', (req, res) => {
