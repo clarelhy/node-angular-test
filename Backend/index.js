@@ -4,9 +4,11 @@ var port = 3000;
 var app = express();
 app.use(express.json());
 
-// TODO: write a GET endpoint "getChildrenTotal" to retrieve total number of children all the customers have in total
+// TODO: write a GET endpoint "getChildrenTotal"
+// Allow frontend to retrieve total number of children ALL the customers have in total
 
-// TODO: write a POST endpoint "getById" to retrieve 1 record by ID
+// TODO: write a POST endpoint "getById"
+// Allow frontend to retrieve 1 record by ID
 
 // Sample GET request
 app.get('/', (req, res) => {
