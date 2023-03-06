@@ -1,0 +1,67 @@
+[
+	{
+		"customer": {
+			"id": "1",
+			"name": "Modesto Cassin",
+			"phone": "(661) 835-8125",
+			"address": {
+				"street": "50211 Will Cliff",
+				"city": "Mossieton",
+				"state": "Iowa"
+			},
+			"chlidren": ["Bella", "Dan"]
+		}
+	},
+	{
+		"customer": {
+			"id": "2",
+			"name": "Shea Eichmann",
+			"phone": "(148) 402-4723",
+			"address": {
+				"street": "965 Heller Lights",
+				"city": "Kentonstad",
+				"state": "Tennessee"
+			},
+			"chlidren": ["Bob"]
+		}
+	},
+	{
+		"customer": {
+			"id": "3",
+			"name": "Mike Roberts",
+			"phone": "(993) 789-0755",
+			"address": {
+				"street": "71786 Turner Place",
+				"city": "New Mateo",
+				"state": "Florida"
+			},
+			"chlidren": ["Janelle", "Mark", "Alfie"]
+		}
+	},
+	{
+		"customer": {
+			"id": "4",
+			"name": "Dorris Cole",
+			"phone": "(411) 720-0075",
+			"address": {
+				"street": "647 Ross Avenue",
+				"city": "Marvinbury",
+				"state": "Illinois"
+			},
+			"chlidren": []
+		}
+	},
+	{
+		"customer": {
+			"id": "5",
+			"name": "Fabian Kutch",
+			"phone": "(844) 791-2198",
+			"address": {
+				"street": "09881 Walter Ferry",
+				"city": "Tadview",
+				"state": "New Jersey"
+			},
+			"chlidren": ["Abby", "Josh"]
+		}
+	}
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Frontend",
+  "dependencies": {
+    "@angular/cli": "^15.2.1"
+  }
+}
